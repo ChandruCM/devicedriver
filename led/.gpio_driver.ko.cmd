@@ -1,0 +1,1 @@
+cmd_/home/chandru/work/devicedriver/BBB/next/driverpgm/led/gpio_driver.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/chandru/work/devicedriver/BBB/next/driverpgm/led/gpio_driver.ko /home/chandru/work/devicedriver/BBB/next/driverpgm/led/gpio_driver.o /home/chandru/work/devicedriver/BBB/next/driverpgm/led/gpio_driver.mod.o
